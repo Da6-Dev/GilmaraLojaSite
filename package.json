@@ -1,8 +1,0 @@
-{
-  "name": "meu-projeto-root",
-  "private": true,
-  "workspaces": [
-    "server",
-    "web"
-  ]
-}
